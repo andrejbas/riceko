@@ -323,7 +323,7 @@ ul.spec {
     margin-right: 120px;
     text-align: center;
     padding-bottom: 24px;
-    flex-direction: row;
+    flex-direction: column;
 }
 .section5 img {
     width: 100px;
